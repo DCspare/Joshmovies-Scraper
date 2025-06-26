@@ -40,7 +40,7 @@ Follow these simple steps to set up and run the tool on your local machine.
 First, clone this repository to your computer using Git. Open your terminal and run:
 
 ```bash
-git clone [https://github.com/DCspare/Joshmovies-Scraper.git](https://github.com/DCspare/Joshmovies-Scraper.git)
+git clone https://github.com/DCspare/Joshmovies-Scraper.git
 cd Joshmovies-Scraper
 ```
 
