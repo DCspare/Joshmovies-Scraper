@@ -41,7 +41,7 @@ First, clone this repository to your computer using Git. Open your terminal and 
 
 ```bash
 git clone [https://github.com/DCspare/Joshmovies-Scraper.git](https://github.com/DCspare/Joshmovies-Scraper.git)
-cd Joshmovie-Scraper
+cd Joshmovies-Scraper
 ```
 
 ### Step 2: Install Required Libraries
