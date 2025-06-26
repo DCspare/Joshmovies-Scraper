@@ -40,10 +40,9 @@ Follow these simple steps to set up and run the tool on your local machine.
 First, clone this repository to your computer using Git. Open your terminal and run:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/DCspare/Joshmovies-Scraper.git
+cd Joshmovie-Scraper
 ```
-*(Replace `your-username` and `your-repo-name` with your actual GitHub details.)*
 
 ### Step 2: Install Required Libraries
 
@@ -58,7 +57,7 @@ pip install requests beautifulsoup4 colorama
 Once the setup is complete, you are ready to run the tool. Simply execute the script using Python:
 
 ```bash
-python josh_scraper.py
+python Scraper_V04.py
 ```
 
 The script will launch, and from there you just need to follow the on-screen prompts. It will ask you for the URL, your preferred output (download or save link), and the destination folder.
